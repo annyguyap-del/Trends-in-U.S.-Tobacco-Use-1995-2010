@@ -1,5 +1,6 @@
 # 📊 Tobacco Use Analysis (BRFSS 1995–2010)
 
+<img width="436" height="454" alt="Image" src="https://github.com/user-attachments/assets/b7e643cb-5f0d-4943-95cd-72a6876f5d0e" />
 ## Overview
 This repository contains an analysis of U.S. tobacco use trends between **1995 and 2010**, based on data from the **Behavioral Risk Factor Surveillance System (BRFSS)**. The project explores national, regional, and state-level smoking patterns, identifies fastest and slowest declines, and provides actionable insights for public health policy.
 
