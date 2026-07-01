@@ -176,4 +176,4 @@ Between 1995 and 2010:
 ---
 
 ## 📜 License
-This project is for **educational and research purposes**. Data sourced from the **CDC BRFSS survey**.
+This project is for **educational and research purposes**. Data sourced from the **CDC BRFSS survey**. Iam open to Data Anlysis, Visualization and Statistical Analysis. You can reach me via email 'annyguy.ap@gmail.com'
