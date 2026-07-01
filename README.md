@@ -1,4 +1,4 @@
-# 📊 UNITED STATES Tobacco Use Analysis (BRFSS 1995–2010)
+# 📊 United States Tobacco Use Analysis (1995–2010)
 
 <img width="436" height="454" alt="Image" src="https://github.com/user-attachments/assets/b7e643cb-5f0d-4943-95cd-72a6876f5d0e" />
 ## Overview
