@@ -135,8 +135,46 @@ Between 1995 and 2010:
 - **HTML/CSS/JS**: Interactive dashboard.
 
 ---
+## 📂 Dataset Contents
+- **State** → U.S. state or territory.
+- **Smoke Everyday** → % of adults who smoke daily.
+- **Smoke Some Days** → % of adults who smoke occasionally.
+- **Former Smoker** → % of adults who previously smoked.
+- **Never Smoked** → % of adults who have never smoked.
+- **Location 1** → Geographic region (Census divisions or regions).
 
+---
 
+## 🔍 How to Use the Dataset
+1. Familiarize yourself with the columns and values.
+2. Explore trends over time:
+   - Plot prevalence data by year or decade.
+   - Compile descriptive statistics (mean, percentiles).
+   - Contrast states by urban/rural population, economic, or political factors.
+   - Visualize multi-year patterns with charts (line plots, box-and-whisker plots).
+3. Develop **visualization maps** showing changes in tobacco consumption by location.
+4. Use the dataset for **public dashboards** or interactive tools.
+
+---
+
+## 📈 Research Questions
+- How do **regional and state-level smoking rates** compare over time?
+- How are **different demographics** (age, gender) affected by state-level smoking trends?
+- What **visualization methods** best show changes in tobacco consumption prevalence and related health risks?
+
+---
+
+## 🚀 Project Execution Guide
+1. **Define the problem** → Identify smoking trends and health risks.
+2. **Clean the data** → Ensure accuracy and consistency.
+3. **Perform EDA** → Use charts and pivot tables to explore.
+4. **Apply analysis/modeling** → Regression or other statistical methods.
+5. **Interpret results** → Highlight key findings.
+6. **Executive summary** → Communicate insights clearly.
+7. **Create dashboards** → Visualize trends interactively.
+8. **Draw conclusions** → Provide actionable insights for public health.
+
+---
 
 ## 📜 License
 This project is for **educational and research purposes**. Data sourced from the **CDC BRFSS survey**.
