@@ -131,7 +131,6 @@ Between 1995 and 2010:
 
 ## 🛠️ Tech Stack
 - **Excel**: Pivot tables, regression formulas, KPI dashboards.
-- **Python (NumPy)**: Regression validation.
 - **HTML/CSS/JS**: Interactive dashboard.
 
 ---
