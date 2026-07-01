@@ -1,5 +1,7 @@
 # Tobacco Use Trends in the United States
 
+
+<img width="436" height="454" alt="Image" src="https://github.com/user-attachments/assets/b7e643cb-5f0d-4943-95cd-72a6876f5d0e" />
 ## 📊 Overview
 This project analyzes the **prevalence and trends in tobacco use across the United States**, drawing from the Behavioral Risk Factor Surveillance System (BRFSS). By breaking down data by state and region, the project explores how smoking habits have changed over time and identifies high-risk areas for better health outcomes.
 
